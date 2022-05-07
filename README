@@ -4,3 +4,7 @@ We are currently in the process of revamping our GitHub.
 In the meantime, please make sure you look for codes in all the branches.
 
 ER-Loss for Knowledge Graphs
+BLEU - Scaling loss with BLEU
+ROGUE - Scaling loss with ROGUE
+BERT - Using Cosine Similarity on BERT Embeddings
+Vanilla GPT2
